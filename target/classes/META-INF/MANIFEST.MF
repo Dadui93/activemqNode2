@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: com-turreta-springboot-embedded-jms
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sunhaoxiang
+Implementation-Vendor-Id: com.turreta.springboot.embedded.jms
+Build-Jdk: 1.8.0_40
+Implementation-URL: http://projects.spring.io/spring-boot/com-turreta-
+ springboot-embedded-jms/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
